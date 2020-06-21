@@ -10,4 +10,4 @@ chmod +x requirement.sh
 
 python run.py
 Path of your Domain and Subdomain List: ./subdoamin.txt
-Save your Output: result.txt (If you don't want to save file leave it blank)
+Save your Output: result.txt (If you don't want to save file leave it blank )
